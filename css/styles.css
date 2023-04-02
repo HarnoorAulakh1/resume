@@ -1,0 +1,22 @@
+hr
+{
+    border-style: dotted none none;
+    background-color: beige;
+    height: 0%;
+    width: 20%;
+    border-width: 10px;
+    border-color: gainsboro;
+}
+body
+{
+    background-color: B8621B ;
+}
+h1{
+    color: F3DEBA;
+}
+img{
+    width: 250px;
+     height: 250px;
+     border-radius: 600px;
+     background-color: aliceblue;
+}

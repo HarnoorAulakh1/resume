@@ -1,0 +1,29 @@
+p
+{
+    color: DDF7E3;
+    font-style: italic;
+    font-size: 40px;
+    text-align-last: center;
+}
+body{
+    /* background-color: CFF5E7; */
+    background-image: url("/Users/harnoorsinghaulakh/Downloads/lines-blue-green-streaks-wallpaper-preview.jpg");
+    background-size: 1500px;
+}
+.text
+{
+    margin-top: 25%;
+    /* margin-left: 10%;  */
+    width: auto;
+    align-self: center;
+    /* background-color: azure; */
+    border-radius: 20px;
+}
+ul
+{
+    color: DDF7E3;
+}
+h1
+{
+    color: aliceblue;
+}
